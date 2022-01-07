@@ -5,7 +5,7 @@ React Global Store similar to Svelte
 `npm i global-react-store-hook`
 
 ## Usage
-```
+```js
 //Stores/count-store.js
 import {createStore} from 'global-react-store-hook';
 
@@ -17,7 +17,7 @@ store: 0
 });
 ```
 
-```
+```jsx
 //App.jsx
 import {count} from <rel-path-to-Store/count-store.js>
 import {useStore} from 'global-react-store-hook'
