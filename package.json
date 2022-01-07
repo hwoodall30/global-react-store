@@ -1,0 +1,29 @@
+{
+  "name": "global-react-store-hook",
+  "version": "1.2.0",
+  "description": "React global store similar to Svelte Stores",
+  "main": "use-global-store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwoodall30/global-react-store.git"
+  },
+  "keywords": [
+    "React",
+    "Store",
+    "State",
+    "Global"
+  ],
+  "author": "Hunter Woodall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hwoodall30/global-react-store/issues"
+  },
+  "homepage": "https://github.com/hwoodall30/global-react-store#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "typescript": "^4.5.4"
+  }
+}
